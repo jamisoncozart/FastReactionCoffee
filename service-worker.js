@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FastReactionCoffee/precache-manifest.26cb3508f1f713016a39d5e4d3d6f404.js"
+  "/FastReactionCoffee/precache-manifest.0c47fa41b83b5c60da66b0d79bf1d3bc.js"
 );
 
 self.addEventListener('message', (event) => {
